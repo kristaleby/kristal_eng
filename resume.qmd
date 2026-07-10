@@ -1,89 +1,89 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Kristal Eng's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+## Kristal Eng
+current Brigham Young University - Idaho student
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://kristaleby.github.io/kristal_eng/">Github</a>
+| <a href="www.linkedin.com/in/kristal-eng">Linkedin</a>
 </div>
 
+## Contact Information
 
-## Currently
+Mobile: +1 (208) 973-5574
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Email: kristaleng.by@gmail.com
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Sep 2023 - current`
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+__Brigham Young University - Idaho__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Bachelor of Science in Business Analytics
+ - Minor in Economics & Finance
+ - Certificates: Business Fundamentals, Data Science
+ - GPA: 3.94
+ - Expected Graduation: Dec 2026
 
 
+### Areas of Interest
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+Asset Management, Corporate treasury, Global Markets, Investment Banking, Operations
 
 
+## Work Experience
 
-## Publications
+__Data Intern__, `Apr 2025 - Jan 2026`
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+_The Church of Jesus Christ of Latter-Day Saints - Idaho | USA_
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- Utilized MS Excel to analyze large amount of data, reducing data discrepancies by 40% and cutting operations cost by 3%
+- Designed and implemented an inventory management system by creating MS Forms surveys, analyzing over 60 responses to ensure accurate records for improved tracking and accountability
+- Developed and optimized interactive dashboards in MS Excel, accelerating decision-making speed by 25%
+- Dispatched over 100 work orders to vendors by identifying issues and coordinating through a centralized system, ensuring timely service and shortening average response time by 20%
 
 
-## Occupation
+__Teacher's Assistant__, `Oct 2023 - current`
 
-`1600`
-__Royal Mint__, London
+_Brigham Young University - Idaho | USA_
 
-- Warden
-- Minted coins
+- Reduced grade turnaround time by 50% from 4 days to 2 days through prioritization and time management
+- Guided 50+ students, offering personalized assistance through active listening and targeted guidance, boosting academic performance for over 80% of students helped
+- Increased student focus and participation by 20% by collaborating with teachers to manage classrooms of 30+ diverse students and implementing effective strategies
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
+__Paralegal__, `Aug 2022 - Feb 2023`
+
+_Nanyang Law LLC | Singapore_
+
+- Increased workflow efficiency by 15% by delivering administrative support to legal department including scheduling, claims processing, and daily operations
+- Edited and proofread 50+ contracts, formal correspondence, and legal filings, ensuring 100% accuracy and compliance with relevant legislation and regulations
+- Improved departmental efficiency by 10% by managing and maintaining legal databases and tracking systems using MS Excel, streamlining data retrieval processes
+
+
+## Project
+
+__Stock Financial Analysis Model__
+
+_Brigham Young University - Idaho_
+
+- Created a financial statement dashboard tool in MS Excel allowing user to select multiple drop downs and view multiple graphs showing trends over time for Balance Sheet and Income Statement
+- Used STOCKHISTORY(), XLOOKUP(), and conditional logic functions to do fundamental stock analysis connected to web
+
+
+## Key Skills
+
+- __Data Analysis:__ MS Excel, SQL, Python, R
+- __Business Intelligence Tools:__ Tableau, Power BI, Corrigo
+- __Language:__ English, Mandarin Chinese
+- __Other Skills:__ MS PowerPoint, MS Word, MS Forms, Bloomberg
+- __Soft Skills:__ Teamwork, Communication, Problem Solving, Time Management
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jul 2026 -->

@@ -33,9 +33,9 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "title": "Kristal Eng’s CV",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "current Brigham Young University - Idaho student\n\nGithub | Linkedin"
   },
   {
     "objectID": "resume.html#currently",
@@ -47,9 +47,9 @@
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+    "title": "Kristal Eng’s CV",
+    "section": "Education",
+    "text": "Education\nSep 2023 - current\nBrigham Young University - Idaho\n\nBachelor of Science in Business Analytics\nMinor in Economics & Finance\nCertificates: Business Fundamentals, Data Science\nGPA: 3.94\nExpected Graduation: Dec 2026\n\n\nAreas of Interest\nAsset Management, Corporate treasury, Global Markets, Investment Banking, Operations"
   },
   {
     "objectID": "resume.html#awards",
@@ -363,5 +363,40 @@
       "Story Telling",
       "Project 3"
     ]
+  },
+  {
+    "objectID": "resume.html#kristal-eng",
+    "href": "resume.html#kristal-eng",
+    "title": "Kristal Eng’s CV",
+    "section": "",
+    "text": "current Brigham Young University - Idaho student\n\nGithub | Linkedin"
+  },
+  {
+    "objectID": "resume.html#contact-information",
+    "href": "resume.html#contact-information",
+    "title": "Kristal Eng’s CV",
+    "section": "Contact Information",
+    "text": "Contact Information\nMobile: +1 (208) 973-5574\nEmail: kristaleng.by@gmail.com"
+  },
+  {
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "Kristal Eng’s CV",
+    "section": "Work Experience",
+    "text": "Work Experience\nData Intern, Apr 2025 - Jan 2026\nThe Church of Jesus Christ of Latter-Day Saints - Idaho | USA\n\nUtilized MS Excel to analyze large amount of data, reducing data discrepancies by 40% and cutting operations cost by 3%\nDesigned and implemented an inventory management system by creating MS Forms surveys, analyzing over 60 responses to ensure accurate records for improved tracking and accountability\nDeveloped and optimized interactive dashboards in MS Excel, accelerating decision-making speed by 25%\nDispatched over 100 work orders to vendors by identifying issues and coordinating through a centralized system, ensuring timely service and shortening average response time by 20%\n\nTeacher’s Assistant, Oct 2023 - current\nBrigham Young University - Idaho | USA\n\nReduced grade turnaround time by 50% from 4 days to 2 days through prioritization and time management\nGuided 50+ students, offering personalized assistance through active listening and targeted guidance, boosting academic performance for over 80% of students helped\nIncreased student focus and participation by 20% by collaborating with teachers to manage classrooms of 30+ diverse students and implementing effective strategies\n\nParalegal, Aug 2022 - Feb 2023\nNanyang Law LLC | Singapore\n\nIncreased workflow efficiency by 15% by delivering administrative support to legal department including scheduling, claims processing, and daily operations\nEdited and proofread 50+ contracts, formal correspondence, and legal filings, ensuring 100% accuracy and compliance with relevant legislation and regulations\nImproved departmental efficiency by 10% by managing and maintaining legal databases and tracking systems using MS Excel, streamlining data retrieval processes"
+  },
+  {
+    "objectID": "resume.html#project",
+    "href": "resume.html#project",
+    "title": "Kristal Eng’s CV",
+    "section": "Project",
+    "text": "Project\nStock Financial Analysis Model\nBrigham Young University - Idaho\n\nCreated a financial statement dashboard tool in MS Excel allowing user to select multiple drop downs and view multiple graphs showing trends over time for Balance Sheet and Income Statement\nUsed STOCKHISTORY(), XLOOKUP(), and conditional logic functions to do fundamental stock analysis connected to web"
+  },
+  {
+    "objectID": "resume.html#key-skills",
+    "href": "resume.html#key-skills",
+    "title": "Kristal Eng’s CV",
+    "section": "Key Skills",
+    "text": "Key Skills\n\nData Analysis: MS Excel, SQL, Python, R\nBusiness Intelligence Tools: Tableau, Power BI, Corrigo\nLanguage: English, Mandarin Chinese\nOther Skills: MS PowerPoint, MS Word, MS Forms, Bloomberg\nSoft Skills: Teamwork, Communication, Problem Solving, Time Management"
   }
 ]
