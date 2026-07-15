@@ -1,131 +1,5 @@
 [
   {
-    "objectID": "story_telling.html",
-    "href": "story_telling.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "story_telling.html#title-2-header",
-    "href": "story_telling.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Story Telling"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project2.html",
-    "href": "Story_Telling/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "resume.html",
-    "href": "resume.html",
-    "title": "Kristal Eng’s CV",
-    "section": "",
-    "text": "current Brigham Young University - Idaho student\n\nGithub | Linkedin"
-  },
-  {
-    "objectID": "resume.html#currently",
-    "href": "resume.html#currently",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "Standing on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples."
-  },
-  {
-    "objectID": "resume.html#education",
-    "href": "resume.html#education",
-    "title": "Kristal Eng’s CV",
-    "section": "Education",
-    "text": "Education\nSep 2023 - current\nBrigham Young University - Idaho\n\nBachelor of Science in Business Analytics\nMinor in Economics & Finance\nCertificates: Business Fundamentals, Data Science\nGPA: 3.94\nExpected Graduation: Dec 2026\n\n\nAreas of Interest\nAsset Management, Corporate treasury, Global Markets, Investment Banking, Operations"
-  },
-  {
-    "objectID": "resume.html#awards",
-    "href": "resume.html#awards",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France"
-  },
-  {
-    "objectID": "resume.html#publications",
-    "href": "resume.html#publications",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001"
-  },
-  {
-    "objectID": "resume.html#occupation",
-    "href": "resume.html#occupation",
-    "title": "Isaac Newtons’s CV",
-    "section": "",
-    "text": "1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
-  },
-  {
-    "objectID": "Machine_Learning/project3.html",
-    "href": "Machine_Learning/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "Machine_Learning/project1.html",
-    "href": "Machine_Learning/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "full_stack.html",
-    "href": "full_stack.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
-  },
-  {
-    "objectID": "full_stack.html#title-2-header",
-    "href": "full_stack.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Full Stack"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project1.html",
-    "href": "Full_Stack/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 1"
-    ]
-  },
-  {
     "objectID": "competition.html",
     "href": "competition.html",
     "title": "about me",
@@ -145,17 +19,6 @@
     "crumbs": [
       "Competitions",
       "Competition"
-    ]
-  },
-  {
-    "objectID": "Competition/project2.html",
-    "href": "Competition/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competitions",
-      "Project 2"
     ]
   },
   {
@@ -181,45 +44,25 @@
     ]
   },
   {
-    "objectID": "Cleansing_Exploration/project2.html",
-    "href": "Cleansing_Exploration/project2.html",
+    "objectID": "Full_Stack/project1.html",
+    "href": "Full_Stack/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Data Exploration",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "cleansing.html",
-    "href": "cleansing.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "cleansing.html#title-2-header",
-    "href": "cleansing.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Cleansing"
-    ]
-  },
-  {
-    "objectID": "Cleansing_Exploration/project1.html",
-    "href": "Cleansing_Exploration/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Data Exploration",
+      "Full Stack",
       "Project 1"
+    ]
+  },
+  {
+    "objectID": "Competition/project2.html",
+    "href": "Competition/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competitions",
+      "Project 2"
     ]
   },
   {
@@ -234,92 +77,14 @@
     ]
   },
   {
-    "objectID": "Cleansing_Projects/project2.html",
-    "href": "Cleansing_Projects/project2.html",
+    "objectID": "Cleansing_Exploration/project1.html",
+    "href": "Cleansing_Exploration/project1.html",
     "title": "Client Report - [Insert Project Title]",
     "section": "",
     "text": "Paste in a template\n\n\n\n\n Back to top",
     "crumbs": [
-      "Data Cleansing",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "Competition/project1.html",
-    "href": "Competition/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competitions",
+      "Data Exploration",
       "Project 1"
-    ]
-  },
-  {
-    "objectID": "Competition/project3.html",
-    "href": "Competition/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Competitions",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "exploration.html",
-    "href": "exploration.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Exploration"
-    ]
-  },
-  {
-    "objectID": "exploration.html#title-2-header",
-    "href": "exploration.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics",
-    "crumbs": [
-      "Data Exploration"
-    ]
-  },
-  {
-    "objectID": "Full_Stack/project2.html",
-    "href": "Full_Stack/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Full Stack",
-      "Project 2"
-    ]
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "index.html#title-2-header",
-    "href": "index.html#title-2-header",
-    "title": "about me",
-    "section": "",
-    "text": "MarkDown Basics"
-  },
-  {
-    "objectID": "Machine_Learning/project2.html",
-    "href": "Machine_Learning/project2.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Machine Learning",
-      "Project 2"
     ]
   },
   {
@@ -341,63 +106,6 @@
     "crumbs": [
       "Machine Learning"
     ]
-  },
-  {
-    "objectID": "Story_Telling/project1.html",
-    "href": "Story_Telling/project1.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 1"
-    ]
-  },
-  {
-    "objectID": "Story_Telling/project3.html",
-    "href": "Story_Telling/project3.html",
-    "title": "Client Report - [Insert Project Title]",
-    "section": "",
-    "text": "Paste in a template\n\n\n\n\n Back to top",
-    "crumbs": [
-      "Story Telling",
-      "Project 3"
-    ]
-  },
-  {
-    "objectID": "resume.html#kristal-eng",
-    "href": "resume.html#kristal-eng",
-    "title": "Kristal Eng’s CV",
-    "section": "",
-    "text": "current Brigham Young University - Idaho student\n\nGithub | Linkedin"
-  },
-  {
-    "objectID": "resume.html#contact-information",
-    "href": "resume.html#contact-information",
-    "title": "Kristal Eng’s CV",
-    "section": "Contact Information",
-    "text": "Contact Information\nMobile: +1 (208) 973-5574\nEmail: kristaleng.by@gmail.com"
-  },
-  {
-    "objectID": "resume.html#work-experience",
-    "href": "resume.html#work-experience",
-    "title": "Kristal Eng’s CV",
-    "section": "Work Experience",
-    "text": "Work Experience\nData Intern, Apr 2025 - Jan 2026\nThe Church of Jesus Christ of Latter-Day Saints - Idaho | USA\n\nUtilized MS Excel to analyze large amount of data, reducing data discrepancies by 40% and cutting operations cost by 3%\nDesigned and implemented an inventory management system by creating MS Forms surveys, analyzing over 60 responses to ensure accurate records for improved tracking and accountability\nDeveloped and optimized interactive dashboards in MS Excel, accelerating decision-making speed by 25%\nDispatched over 100 work orders to vendors by identifying issues and coordinating through a centralized system, ensuring timely service and shortening average response time by 20%\n\nTeacher’s Assistant, Oct 2023 - current\nBrigham Young University - Idaho | USA\n\nReduced grade turnaround time by 50% from 4 days to 2 days through prioritization and time management\nGuided 50+ students, offering personalized assistance through active listening and targeted guidance, boosting academic performance for over 80% of students helped\nIncreased student focus and participation by 20% by collaborating with teachers to manage classrooms of 30+ diverse students and implementing effective strategies\n\nParalegal, Aug 2022 - Feb 2023\nNanyang Law LLC | Singapore\n\nIncreased workflow efficiency by 15% by delivering administrative support to legal department including scheduling, claims processing, and daily operations\nEdited and proofread 50+ contracts, formal correspondence, and legal filings, ensuring 100% accuracy and compliance with relevant legislation and regulations\nImproved departmental efficiency by 10% by managing and maintaining legal databases and tracking systems using MS Excel, streamlining data retrieval processes"
-  },
-  {
-    "objectID": "resume.html#project",
-    "href": "resume.html#project",
-    "title": "Kristal Eng’s CV",
-    "section": "Project",
-    "text": "Project\nStock Financial Analysis Model\nBrigham Young University - Idaho\n\nCreated a financial statement dashboard tool in MS Excel allowing user to select multiple drop downs and view multiple graphs showing trends over time for Balance Sheet and Income Statement\nUsed STOCKHISTORY(), XLOOKUP(), and conditional logic functions to do fundamental stock analysis connected to web"
-  },
-  {
-    "objectID": "resume.html#key-skills",
-    "href": "resume.html#key-skills",
-    "title": "Kristal Eng’s CV",
-    "section": "Key Skills",
-    "text": "Key Skills\n\nData Analysis: MS Excel, SQL, Python, R\nBusiness Intelligence Tools: Tableau, Power BI, Corrigo\nLanguage: English, Mandarin Chinese\nOther Skills: MS PowerPoint, MS Word, MS Forms, Bloomberg\nSoft Skills: Teamwork, Communication, Problem Solving, Time Management"
   },
   {
     "objectID": "final.html",
@@ -426,5 +134,269 @@
     "title": "Semester Project",
     "section": "",
     "text": "In conclusion, this analysis examined the relationship between education policies and adult literacy rates by exploring global literacy trends and teacher education requirements across regions. The results show that global adult literacy has improved substantially over the past five decades, increasing from 65.42% in 1975 to 87.74% in 2024. Despite this progress, considerable disparities remain between regions, with Europe recording the highest average literacy rate and Africa the lowest.\nThe findings also indicate that countries requiring specific teacher education generally achieve higher and more consistent literacy rates than countries without such requirements. In addition, many nations have progressively strengthened teacher qualification standards over time. Although these trends suggest a positive association between stronger teacher education requirements and higher literacy outcomes, the analysis does not establish a causal relationship.\nOverall, the results highlight the importance of investing in teachers to improve literacy outcomes worldwide. Strengthening teacher education requirements may help reduce regional disparities and contribute to continued improvements in literacy. As literacy is closely linked to economic growth, public health, and social development, policies that promote higher standards for teachers have the potential to generate long-term benefits for individuals, communities, and society as a whole."
+  },
+  {
+    "objectID": "Machine_Learning/project2.html",
+    "href": "Machine_Learning/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "cleansing.html",
+    "href": "cleansing.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "cleansing.html#title-2-header",
+    "href": "cleansing.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Cleansing"
+    ]
+  },
+  {
+    "objectID": "exploration.html",
+    "href": "exploration.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "exploration.html#title-2-header",
+    "href": "exploration.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Data Exploration"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project2.html",
+    "href": "Story_Telling/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project1.html",
+    "href": "Story_Telling/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Story_Telling/project3.html",
+    "href": "Story_Telling/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Story Telling",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Kristal Eng’s CV",
+    "section": "",
+    "text": "current Brigham Young University - Idaho student\n\nGithub | Linkedin"
+  },
+  {
+    "objectID": "resume.html#kristal-eng",
+    "href": "resume.html#kristal-eng",
+    "title": "Kristal Eng’s CV",
+    "section": "",
+    "text": "current Brigham Young University - Idaho student\n\nGithub | Linkedin"
+  },
+  {
+    "objectID": "resume.html#contact-information",
+    "href": "resume.html#contact-information",
+    "title": "Kristal Eng’s CV",
+    "section": "Contact Information",
+    "text": "Contact Information\nMobile: +1 (208) 973-5574\nEmail: kristaleng.by@gmail.com"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Kristal Eng’s CV",
+    "section": "Education",
+    "text": "Education\nSep 2023 - current\nBrigham Young University - Idaho\n\nBachelor of Science in Business Analytics\nMinor in Economics & Finance\nCertificates: Business Fundamentals, Data Science\nGPA: 3.94\nExpected Graduation: Dec 2026\n\n\nAreas of Interest\nAsset Management, Corporate treasury, Global Markets, Investment Banking, Operations"
+  },
+  {
+    "objectID": "resume.html#work-experience",
+    "href": "resume.html#work-experience",
+    "title": "Kristal Eng’s CV",
+    "section": "Work Experience",
+    "text": "Work Experience\nData Intern, Apr 2025 - Jan 2026\nThe Church of Jesus Christ of Latter-Day Saints - Idaho | USA\n\nUtilized MS Excel to analyze large amount of data, reducing data discrepancies by 40% and cutting operations cost by 3%\nDesigned and implemented an inventory management system by creating MS Forms surveys, analyzing over 60 responses to ensure accurate records for improved tracking and accountability\nDeveloped and optimized interactive dashboards in MS Excel, accelerating decision-making speed by 25%\nDispatched over 100 work orders to vendors by identifying issues and coordinating through a centralized system, ensuring timely service and shortening average response time by 20%\n\nTeacher’s Assistant, Oct 2023 - current\nBrigham Young University - Idaho | USA\n\nReduced grade turnaround time by 50% from 4 days to 2 days through prioritization and time management\nGuided 50+ students, offering personalized assistance through active listening and targeted guidance, boosting academic performance for over 80% of students helped\nIncreased student focus and participation by 20% by collaborating with teachers to manage classrooms of 30+ diverse students and implementing effective strategies\n\nParalegal, Aug 2022 - Feb 2023\nNanyang Law LLC | Singapore\n\nIncreased workflow efficiency by 15% by delivering administrative support to legal department including scheduling, claims processing, and daily operations\nEdited and proofread 50+ contracts, formal correspondence, and legal filings, ensuring 100% accuracy and compliance with relevant legislation and regulations\nImproved departmental efficiency by 10% by managing and maintaining legal databases and tracking systems using MS Excel, streamlining data retrieval processes"
+  },
+  {
+    "objectID": "resume.html#project",
+    "href": "resume.html#project",
+    "title": "Kristal Eng’s CV",
+    "section": "Project",
+    "text": "Project\nStock Financial Analysis Model\nBrigham Young University - Idaho\n\nCreated a financial statement dashboard tool in MS Excel allowing user to select multiple drop downs and view multiple graphs showing trends over time for Balance Sheet and Income Statement\nUsed STOCKHISTORY(), XLOOKUP(), and conditional logic functions to do fundamental stock analysis connected to web"
+  },
+  {
+    "objectID": "resume.html#key-skills",
+    "href": "resume.html#key-skills",
+    "title": "Kristal Eng’s CV",
+    "section": "Key Skills",
+    "text": "Key Skills\n\nData Analysis: MS Excel, SQL, Python, R\nBusiness Intelligence Tools: Tableau, Power BI, Corrigo\nLanguage: English, Mandarin Chinese\nOther Skills: MS PowerPoint, MS Word, MS Forms, Bloomberg\nSoft Skills: Teamwork, Communication, Problem Solving, Time Management"
+  },
+  {
+    "objectID": "Machine_Learning/project1.html",
+    "href": "Machine_Learning/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Machine_Learning/project3.html",
+    "href": "Machine_Learning/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Machine Learning",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "index.html#title-2-header",
+    "href": "index.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics"
+  },
+  {
+    "objectID": "story_telling.html",
+    "href": "story_telling.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "story_telling.html#title-2-header",
+    "href": "story_telling.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Story Telling"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Exploration/project2.html",
+    "href": "Cleansing_Exploration/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Exploration",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Competition/project1.html",
+    "href": "Competition/project1.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competitions",
+      "Project 1"
+    ]
+  },
+  {
+    "objectID": "Competition/project3.html",
+    "href": "Competition/project3.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Competitions",
+      "Project 3"
+    ]
+  },
+  {
+    "objectID": "Full_Stack/project2.html",
+    "href": "Full_Stack/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Full Stack",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "Cleansing_Projects/project2.html",
+    "href": "Cleansing_Projects/project2.html",
+    "title": "Client Report - [Insert Project Title]",
+    "section": "",
+    "text": "Paste in a template\n\n\n\n\n Back to top",
+    "crumbs": [
+      "Data Cleansing",
+      "Project 2"
+    ]
+  },
+  {
+    "objectID": "full_stack.html",
+    "href": "full_stack.html",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
+  },
+  {
+    "objectID": "full_stack.html#title-2-header",
+    "href": "full_stack.html#title-2-header",
+    "title": "about me",
+    "section": "",
+    "text": "MarkDown Basics",
+    "crumbs": [
+      "Full Stack"
+    ]
   }
 ]

@@ -24,6 +24,8 @@ website:
         file: index.qmd
       - text: "My Resume"
         file: resume.qmd
+      - text: "Project"
+        file: final.qmd
       - text: "Data Cleansing"
         file: cleansing.qmd
       - text: "Data Exploration"
